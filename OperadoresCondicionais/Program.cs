@@ -79,7 +79,7 @@ If e Else e If aninhado
 Operador OR (Pipe,||)
 */
 
-bool ehMaiorDeIdade = true;
+bool ehMaiorDeIdade = false;
 bool possuiAutorizacaoDoResponsavel = false;
 
 if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)

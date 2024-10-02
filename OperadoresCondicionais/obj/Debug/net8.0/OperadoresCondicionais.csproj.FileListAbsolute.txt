@@ -12,3 +12,4 @@ C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\refint\Ope
 C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.pdb
 C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.genruntimeconfig.cache
 C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\ref\OperadoresCondicionais.dll
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.sourcelink.json
