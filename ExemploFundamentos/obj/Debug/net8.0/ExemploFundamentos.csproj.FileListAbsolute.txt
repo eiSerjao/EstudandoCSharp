@@ -1,0 +1,14 @@
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Work\Workspace\SintaxeIndentação\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll

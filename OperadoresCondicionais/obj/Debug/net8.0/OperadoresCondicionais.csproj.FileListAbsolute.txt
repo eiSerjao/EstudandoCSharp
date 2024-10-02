@@ -1,0 +1,14 @@
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.exe
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.deps.json
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.runtimeconfig.json
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.dll
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfoInputs.cache
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfo.cs
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.dll
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\refint\OperadoresCondicionais.dll
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.genruntimeconfig.cache
+C:\Work\Workspace\EstudandoC#\OperadoresCondicionais\obj\Debug\net8.0\ref\OperadoresCondicionais.dll
